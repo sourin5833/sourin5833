@@ -12,18 +12,18 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a style="display: inline;" href="https://www.facebook.com/sourin.mukherjee833"><img width="55px" alt="Facebook" title="Facebook" src="Images/facebook.png"/></a>
+  <a style="display: inline;" href="https://www.facebook.com/sourin.mukherjee833"><img width="55px" alt="Facebook" title="Facebook" src="facebook.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   <a href="#"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a> -->
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a style="display: inline;" href="https://www.instagram.com/i_am_faith_007" alt="Instagram"><img width="41px" title="Instagram" src="Images/instagram.png"/></a>
+  <a style="display: inline;" href="https://www.instagram.com/i_am_faith_007" alt="Instagram"><img width="41px" title="Instagram" src="instagram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   <a href="#"><img width="32px" alt="Dev.to" title=" Dev.to" src="https://i.imgur.com/mVm29vK.png"></a> -->
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a style="display: inline;" href="https://www.linkedin.com/in/sourin-mukherjee2105833/"><img width="46px" alt="Linkedin" title="Linkedin" src="Images/linkedin.png"/></a>
+  <a style="display: inline;" href="https://www.linkedin.com/in/sourin-mukherjee2105833/"><img width="46px" alt="Linkedin" title="Linkedin" src="linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a style="display: inline;" href="https://discord.com/users/918119603249508363"><img width="48px" alt="Discord" title="Discord" src="Images/discord.png"/></a>
+  <a style="display: inline;" href="https://discord.com/users/918119603249508363"><img width="48px" alt="Discord" title="Discord" src="discord.png"/></a>
 </p>
 <hr>
 
@@ -34,7 +34,7 @@
 
 <!-- profile view -->
 <div style="text-align: center; width: 50px; height: 50px;" align="center">
-<img height="auto" src="https://komarev.com/ghpvc/?username=i-am-faith&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
+<img height="auto" src="https://komarev.com/ghpvc/?username=sourin5833&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
 </div>
 
 - 🌱 I’m currently learning **Django**
@@ -68,10 +68,10 @@
 
 <!-- <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-faith&theme=tokyonight&hide_border=false" alt="profile-radme-generator" /> -->
 
-<img align="right" alt="coding" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-faith&theme=algolia&hide_border=false">
+<img align="right" alt="coding" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourin5833&theme=algolia&hide_border=false">
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=i-am-faith&show_icons=true&theme=outrun" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-faith&theme=nightowl" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sourin5833&show_icons=true&theme=outrun" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sourin5833&theme=nightowl" />
 </p>
 
