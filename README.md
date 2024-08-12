@@ -12,7 +12,7 @@
 <!--   HTML Coder -->
 <!--   <img src="https://imgur.com/LPYu1ky.gif" width="1080px"> -->
 <!--   Ghost -->
-<!--   <img src="https://imgur.com/gowZUaU.gif" width="1080px"> -->
+  <img src="https://imgur.com/gowZUaU.gif" width="1080px">
 <!--   Headphone Guy -->
 <!--   <img src="https://imgur.com/kGS4a7M.gif" width="1080px"> -->
 <!--   Intern Coder Song -->
@@ -22,7 +22,7 @@
 <!--   Coding Dark -->
 <!--   <img src="https://imgur.com/1wkjfrG.gif" width="1080px"> -->
 <!--   founding titan -->
-  <img src="https://imgur.com/64S8nlU.gif" width="1080px">
+<!--   <img src="https://imgur.com/64S8nlU.gif" width="1080px"> -->
 </p>
 
 
